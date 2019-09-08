@@ -1,0 +1,70 @@
+Identifier: Android Backdoor
+Name: Android Backdoor
+Description: Start a reverse shell to any android 4.0 or higher.
+Version: 1.0.0
+Filename: /ramen/Scripts/AndroidReverseShell_1.0.0.txt
+Developers: FruitL00p
+Changes: Initial release
+Icon: NONE
+
+
+Identifier: DDoS Script
+Name: Simple DDoS Script
+Description: Flood an IP with useless packets.
+Version: 1.0.1
+Filename: /ramen/Scripts/SimpleDDoS_1.0.1.txt
+Developers: Sk1ddl3s
+Changes: Initial release
+Icon: NONE
+
+
+Identifier: Ned
+Name: Ned
+Description: Nether hub calculation script! (Python 2.6+ required)
+Version: 1.0.0
+Filename: /ramen/Scripts/Ned_1.0.0.py
+Developers: FruitL00p
+Changes: Initial release
+Icon: NONE
+
+
+Identifier: Create RomFS
+Name: Create RomFS
+Description: Create and mange the RomFS of the server.
+Version: 1.0.0
+Filename: /ramen/Scripts/create_romfs.o
+Developers: SystemFags
+Changes: Initial release
+Icon: NONE
+
+
+Identifier: Get CPP (Keychain Store)
+Name: Get CPP (Keychain Store)
+Description: Access database with an extra proxy layer provided by the computers proccessor.
+Version: 1.0.0
+Filename: /ramen/Scripts/getCPP_keychainStore.o
+Developers: SystemFags
+Changes: Initial release
+Icon: NONE
+
+
+Identifier: Get Directory Control
+Name: Get Directory Control
+Description: Get temporary read and write of a directory and its sub directories and files.
+Version: 1.0.0
+Filename: /ramen/Scripts/getDirControl.o
+Developers: SystemFags
+Changes: Initial release
+Icon: NONE
+
+
+Identifier: UDS
+Name: UDS
+Description: Library to get server connections and ports.
+Version: 1.0.0
+Filename: /ramen/Scripts/uds.o
+Developers: SystemFags
+Changes: Initial release
+Icon: NONE
+
+

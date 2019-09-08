@@ -1,0 +1,15 @@
+#include <libpparseinfo.c>
+#include <Store.c>
+#include <System/IO/Crypto.c>
+
+public class getCPP_keychainStore {
+	public key (Bool isValid, Store store){
+		if (!isvalid) {
+			return Code code = new Code { 'key_cert(0)', from store = Random rnd = rnd.next(0, bounds) };
+		}
+
+		Parser par = new Parser { 'mach_swap' };
+		Obfuscate obf = new Obfuscate { 'empty_list' };
+		obf.retChainKey(store.return(par.getKeyFor("foc_enUS", true, Component comp.setkeyHash(obf))));
+	}
+}
