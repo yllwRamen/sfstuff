@@ -1,1 +1,0 @@
-hping3 -1 --flood -a <VICTIM IP> <CUSTOM IP(Optional)>
